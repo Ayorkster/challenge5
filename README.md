@@ -9,5 +9,7 @@ SO THAT I can manage my time effectively
 ```
 
 ## Description
+This is a planner that color codes time-blocks depending on what time it currently is and allows you to save individual time blocks as well.
+
 
 
